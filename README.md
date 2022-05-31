@@ -10,9 +10,7 @@
 
 #### Access the Front End using the follwoing repo
 
-```bash
-> https://github.com/zhadier/hello-rails-back-end
-```
+[Rails Back end](https://github.com/zhadier/hello-rails-back-end)
 
 ## Built With
 
