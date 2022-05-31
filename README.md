@@ -8,7 +8,7 @@
 
 ## Back End
 
-#### Access the Front End using the follwoing repo
+#### Access the Front End using the following repo
 
 [Rails Back end](https://github.com/zhadier/hello-rails-back-end)
 
