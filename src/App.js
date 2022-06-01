@@ -5,8 +5,7 @@ import Greetings from './components/Greetings';
 const App = () => (
   <div className="App">
     <Routes>
-      <Route path="/" element="Home!" />
-      <Route path="/greetings" element={<Greetings />} />
+      <Route path="/" element={<Greetings />} />
     </Routes>
   </div>
 );

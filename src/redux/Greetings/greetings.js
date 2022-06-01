@@ -16,9 +16,6 @@ export const getGreetingsFromAPI = () => async (dispatch) => {
     .then((response) => response.json())
     .then((json) => {
       dispatch(getGreetings(json.greeting));
-    })
-    .catch((err) => {
-      console.log(err);
     });
 };
 
